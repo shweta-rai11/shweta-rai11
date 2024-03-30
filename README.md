@@ -6,7 +6,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <style>
+        body {
+            background-color: #f0f0f0; /* Set your desired background color */
+        }
+    </style>
 </head>
 <body>
     <img src="https://github.com/shweta-rai11/shweta-rai11/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="logo" width="800" height="400">
