@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shweta-rai11?tab=repositories](https://github.com/shweta-rai11?tab=repositories)
 
-- 💬 Ask me about **Data Visualisation, Statistical Analysis,**
+- 💬 Ask me about **Data Visualisation, Statistical Analysis,R-Programming, Machine learning, Artificial Intelligence**
 
 - 📫 How to reach me **raiishweta808@gmail.com**
 
