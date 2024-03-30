@@ -1,4 +1,4 @@
-!logo[](Blue Modern Photo Technology YouTube Banner.png)
+!logo[](https://github.com/shweta-rai11/shweta-rai11/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sweta</h1>
 <h3 align="center">A passionate Data Science Engineer and Bioinformatician</h3>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
