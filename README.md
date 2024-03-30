@@ -9,7 +9,7 @@
     
 </head>
 <body>
-    <img src="https://github.com/shweta-rai11/shweta-rai11/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="logo" width="800" height="300">
+    <img src="https://github.com/shweta-rai11/shweta-rai11/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="logo" width="600" height="300">
 </body>
 </html>
 
