@@ -9,9 +9,11 @@
     <img src="https://github.com/shweta-rai11/shweta-rai11/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="logo" width="800" height="400">
 </body>
 </html>
+Greetings, fellow code-wranglers! 👩‍💻
+<h1 align="center">Greetings, fellow code-wranglers! 👩‍💻</h1>
+<h3 align="center">### Hello, I'm Sweta.I embody traits similar to Shikamaru Nara, analytical, and strategic. I'm passionate about data science and bioinformatics, finding joy in solving complex problems with a thoughtful approach.</h3>
+<h3 align="center">"Embrace your dreams, and whatever happens, protect your honor." - Hatake Kakashi</h3>
 
-<h1 align="center">Hi 👋, I'm Sweta</h1>
-<h3 align="center">A passionate Data Science Engineer and Bioinformatician</h3>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-rai11&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-rai11" /> </p>
 
