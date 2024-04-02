@@ -1,28 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Center Image</title>
-<style>
-  body, html {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  img {
-    max-width: 100%;
-    max-height: 100%;
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
 </head>
 <body>
-
-<img src="https://github.com/shweta-rai11/shweta-rai11/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="logo" width="800" height="400">
-
+    <img src="https://github.com/shweta-rai11/shweta-rai11/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="logo" width="800" height="400">
 </body>
 </html>
 
