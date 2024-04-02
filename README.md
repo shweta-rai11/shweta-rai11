@@ -11,8 +11,8 @@
 </html>
 <h1 align="center">Greetings, fellow code-wranglers! 👩‍💻</h1>
 <br>
-<h3 align="center">Hello, I'm Sweta.<br> I embody traits similar to Shikamaru Nara, analytical, and strategic. <br> I'm passionate about data science and bioinformatics, finding joy in solving complex problems with a thoughtful approach.</h3>
-<h3 align="center">""Believe in yourself, and defy the odds." - Naruto Uzumaki</h3>
+<h3 align="center">Hello, I'm Sweta.<br> I embody traits similar to Shikamaru Nara, analytical, and strategic. <br><b></b> I'm passionate about data science and bioinformatics, finding joy in solving complex problems with a thoughtful approach.</b></h3>
+<h3 align="center">"Believe in yourself, and defy the odds." - Naruto Uzumaki</h3>
 
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-rai11&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-rai11" /> </p>
