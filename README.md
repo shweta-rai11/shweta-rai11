@@ -11,7 +11,7 @@
 </html>
 Greetings, fellow code-wranglers! 👩‍💻
 <h1 align="center">Greetings, fellow code-wranglers! 👩‍💻</h1>
-<h3 align="center">### Hello, I'm Sweta.I embody traits similar to Shikamaru Nara, analytical, and strategic. I'm passionate about data science and bioinformatics, finding joy in solving complex problems with a thoughtful approach.</h3>
+<h3 align="center">Hello, I'm Sweta.I embody traits similar to Shikamaru Nara, analytical, and strategic. I'm passionate about data science and bioinformatics, finding joy in solving complex problems with a thoughtful approach.</h3>
 <h3 align="center">"Embrace your dreams, and whatever happens, protect your honor." - Hatake Kakashi</h3>
 
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
