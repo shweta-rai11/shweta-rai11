@@ -10,27 +10,29 @@
 </body>
 </html>
 
-<h1 align="center">Greetings, fellow code-wranglers! 👩‍💻</h1>
+<h1 align="center">Hi, I'm Sweta 👋</h1>
 <br>
-<h3 align="center">Hello👋 I'm Sweta.<br> I embody traits similar to Shikamaru Nara, analytical, and strategic. <br><b></b> I'm passionate about data science and bioinformatics, finding joy in solving complex problems with a thoughtful approach.</b></h3>
-<h3 align="center">"Believe in yourself, and defy the odds." - Naruto Uzumaki</h3>
+<h3 align="center">PhD Candidate in Bioinformatics at the University of Lethbridge, working on multi-omics analysis and machine-learning-driven biomarker discovery for rheumatoid arthritis.</h3>
+<h3 align="center">Analytical and strategic by nature — I find the most satisfaction in the step where a messy dataset turns into a clear, defensible finding.</h3>
 
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-rai11&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-rai11" /> </p>
 
-- 🌱 I’m currently learning **Django, React,MySQL**
+- 🔬 Currently researching **multi-omics integration (transcriptomics + methylomics) and ML-based biomarker discovery for rheumatoid arthritis**
 
-- 👯 I’m looking to collaborate on **Bio-IT Projects**
+- 🌱 Currently sharpening **Shiny app development and GAN-based synthetic data generation for biomedical datasets**
 
-- 🤝 I’m looking for help with **Full Stack Web development**
+- 👯 I'm looking to collaborate on **Bio-IT and multi-omics bioinformatics projects**
+
+- 🤝 I'm looking for help with **full-stack web development for research-facing tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shweta-rai11?tab=repositories](https://github.com/shweta-rai11?tab=repositories)
 
-- 💬 Ask me about **Data Visualisation, Statistical Analysis,R-Programming, Machine learning, Artificial Intelligence**
+- 💬 Ask me about **multi-omics data analysis, biomarker discovery, R/Bioconductor, machine learning, and statistical analysis**
 
-- 📫 How to reach me **raiishweta808@gmail.com**
+- 📫 How to reach me: **sweta.rai@uleth.ca**
 
-- ⚡ Fun fact **I think I am funny😅**
+- 🏅 Fun fact: my Master's thesis earned a **Gold Medal from Bangalore University** (2022)
 
 
 <p align="left">
