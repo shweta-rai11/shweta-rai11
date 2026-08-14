@@ -32,7 +32,7 @@
 
 - 📫 How to reach me: **sweta.rai@uleth.ca**
 
-- 🏅 Fun fact: my Master's thesis earned a **Gold Medal from Bangalore University** (2022)
+- 🏅 Fun fact: I think i am funny
 
 
 <p align="left">
