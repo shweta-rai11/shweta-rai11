@@ -33,6 +33,7 @@
 - 📫 How to reach me: **sweta.rai@uleth.ca**
 
 - 🏅 Fun fact: I think i am funny
+- https://swetarai.bio/
 
 
 <p align="left">
